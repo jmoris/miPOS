@@ -1,8 +1,8 @@
 {
-  "name": "easydev-seed",
-  "version": "2.0.0",
+  "name": "stpos",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "http://previews.aspirity.com/easydev",
+  "homepage": "http://plataforma.stpos.cl",
   "dependencies": {
     "bfj": "^6.1.1",
     "bootstrap": "^4.3.1",
